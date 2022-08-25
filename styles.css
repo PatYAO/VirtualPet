@@ -8,7 +8,7 @@ body {
 #content {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 header {
@@ -20,5 +20,5 @@ footer {
 	font-size: 90%;
 }
 h1:hover{
-	color:blue;
+	color: rgb(0,0,255);
 }
