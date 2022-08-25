@@ -31,6 +31,9 @@ a{
 a:visited{
 	color:rgb(255,255,0);
 }
+a:hover{
+	color:rgb(0,0,255);
+}
 a:active{
 	color:(rgb(0,255,0);
 }
