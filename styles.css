@@ -19,3 +19,6 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
+h1:hover{
+	color:blue;
+}
